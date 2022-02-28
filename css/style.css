@@ -115,6 +115,7 @@ header .container {
     margin: 0 auto;
     line-height: 25rem;
     background: url(../images/teampowerlevelhero.png);
+    background-repeat: no-repeat;
     display: block;
 }
 
