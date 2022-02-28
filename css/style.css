@@ -110,6 +110,14 @@ header .container {
   padding-top: 1rem;
 }
 
+.heroShotImage {
+    width: 100%;
+    margin: 0 auto;
+    line-height: 25rem;
+    background: url('https://i.ibb.co/Vvpn0m7/Banner.png');
+    display: block;
+}
+
 .logoHero {
   position: absolute;
   padding-right: 0px;
